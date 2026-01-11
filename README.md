@@ -96,4 +96,5 @@ To build a minimized jar, go to the project root directory and run in the termin
 
 ### Contacts
 
-If you have any questions or suggestions, join our [Discord server](https://discord.gg/4VGP3Gv)!
+DM choice21 on discord about this specific plugin.
+Feel free too join to support the orignal devs! [Discord server](https://discord.gg/4VGP3Gv)!
